@@ -7,6 +7,7 @@ new community levels:
 tech: mass production - tech have +3 choices to spawn ammo, research, or heals
 
 *********************************************************** TODO *****************************************************
+Make short range wepons like swords or knives
 
 make a mob similar to slasher
   because it's just a very well made mob.
